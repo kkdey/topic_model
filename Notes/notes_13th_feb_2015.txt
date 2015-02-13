@@ -1,0 +1,12 @@
+Today I am putting the first update (R codes, .html files and figures) into Github...I wish to keep track of this using 
+
+a notes folder which will be updated each time I push something big into this repo.
+
+Today's important notes:
+
+In Figs folder, I have present all the important figures of test runs of different models. But right now, the figures in 
+
+the Poisson Reads Model 2 are not adjusted for the overdispersion, so they need to be modified. 
+
+Also, we need to put some tests.R files to test the significance of the outputs obtained from running the R codes 
+
